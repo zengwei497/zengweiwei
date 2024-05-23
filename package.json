@@ -19,7 +19,8 @@
   "description": "",
   "dependencies": {
     "antd": "^2.11.1",
-    "classnames": "^2.2.5"
+    "classnames": "^2.2.5",
+    "xiaosh-tt":"1.0.0"
   },
   "devDependencies": {
     "axios": "^0.15.3",
