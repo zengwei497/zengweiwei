@@ -20,7 +20,9 @@
   "dependencies": {
     "antd": "^2.11.1",
     "classnames": "^2.2.5",
-    "xiaosh-tt":"1.0.0"
+    "xiaosh-tt":"1.0.0",
+    "tea-pj2": "1.0.0",
+    "minti_fulkerson":"1.0.2"
   },
   "devDependencies": {
     "axios": "^0.15.3",
