@@ -1,6 +1,6 @@
 {
   "name": "zengweiwei",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,9 +20,9 @@
   "dependencies": {
     "antd": "^2.11.1",
     "classnames": "^2.2.5",
-    "xiaosh-tt":"1.0.0",
+    "xiaosh-tt": "1.0.0",
     "tea-pj2": "1.0.0",
-    "minti_fulkerson":"1.0.2",
+    "minti_fulkerson": "1.0.2",
     "@commitlint/cli": "^17.1.2",
     "@linkmore/commitlint-config": "^1.0.2",
     "commitizen": "^4.2.5",
